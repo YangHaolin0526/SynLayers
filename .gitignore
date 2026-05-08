@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+dist/
+build/
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Checkpoints and model weights (download from HuggingFace instead)
+ckpt/
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.ckpt
+
+# Large model cache dirs
+SynLayers_checkpoints/
+SynLayers_ckpt/
+
+# Inference outputs
+outputs/
+real_inference_output/
+results/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# WandB
+wandb/
+
+# Third-party frameworks (install separately)
+LlamaFactory/
+
+# Dataset (not redistributed)
+data/
+testset/
+
+# IDEs
+.vscode/
+.idea/
+
+# Logs
+*.log

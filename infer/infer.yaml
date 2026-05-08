@@ -1,0 +1,49 @@
+# SynLayers inference configuration
+# Edit paths below to match your local setup after running download_ckpt.py
+
+seed: 42
+max_layer_num: 52
+
+# Input image resolution
+source_size: 1024
+target_size: 1024
+
+# ── Paths you must set ────────────────────────────────────────────────────────
+
+# Directory containing images and the caption/bbox JSONL
+data_dir: "./data/real_world_inference"
+image_dir: "./data/real_world_inference/layers_real_test_1024"
+test_jsonl: "./data/real_world_inference/caption_bbox_infer.jsonl"
+
+# Base FLUX.1-dev model (downloaded by tools/download_ckpt.py)
+pretrained_model_name_or_path: "./ckpt/FLUX.1-dev"
+
+# ControlNet inpainting adapter (downloaded by tools/download_ckpt.py)
+pretrained_adapter_path: "./ckpt/FLUX.1-dev-Controlnet-Inpainting-Alpha"
+
+# SynLayers-specific checkpoints (downloaded by tools/download_ckpt.py --download-synlayers)
+transp_vae_path: "./ckpt/trans_vae/0008000.pt"
+pretrained_lora_dir: "./ckpt/pre_trained_LoRA"
+artplus_lora_dir: "./ckpt/prism_ft_LoRA"
+
+# Fine-tuned SynLayers LoRA checkpoint
+lora_ckpt: "./ckpt/SynLayers_ckpt/step_120000/transformer"
+layer_ckpt: "./ckpt/SynLayers_ckpt/step_120000"
+adapter_lora_dir: "./ckpt/SynLayers_ckpt/step_120000/adapter"
+
+# ── Inference settings ────────────────────────────────────────────────────────
+
+# Classifier-free guidance scale
+cfg: 4.0
+
+# ControlNet conditioning strength
+adapter_scale: 0.9
+
+max_sequence_length: 1024
+
+# Where to save outputs
+save_dir: "./outputs/real_inference"
+
+# Sample range (1-based indexing; leave end_idx unset to process all)
+start_idx: 1
+# end_idx: 10

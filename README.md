@@ -190,28 +190,11 @@ SynLayers/
    - **Layer positional embeddings** to distinguish layers within the same denoising pass
    - **LoRA fine-tuning** for coherent multi-layer generation
 
----
-
-## Troubleshooting
-
-| Problem | Fix |
-|---------|-----|
-| `CUDA out of memory` | Reduce `max_layer_num` in `infer.yaml` or use a GPU with more VRAM |
-| `ModuleNotFoundError` | Run from the project root: `python infer/real_infer.py …` |
-| Bboxes all zeros | The VLM output parse failed; try `--max-new-tokens 2048` |
-| Blurry layers | Try `--cfg 5.0` or `--adapter-scale 1.0` |
-
----
 
 ## Citation
 
 If you use SynLayers in your research, please cite:
 
 ```bibtex
-@misc{synlayers2025,
-  title  = {SynLayers: Layer-wise Image Decomposition via Diffusion Models},
-  author = {SynLayers Team},
-  year   = {2025},
-  url    = {https://huggingface.co/SynLayers/Bbox-caption-8b}
-}
+
 ```

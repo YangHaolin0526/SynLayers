@@ -1,4 +1,13 @@
-# SynLayers
+# SynLayers: Does Synthetic Layered Design Data Benefit Layered Design Decomposition?
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://www.python.org/)
+
+## Overview
+<p align="center">
+  <img src="pipeline_new_1.png" width="100%"><br>
+  <i>Overview of construction of SynLayers. Multi-source assets, including base designs, RGBA/RGB foregrounds, and text layers, are recombined with a low-overlap algorithm to generate composite images, spatial bounding boxes, and raw layout descriptions. A VLM refines these into coherent whole-image captions. The output is a fully synthetic layered dataset comprising composite images, ground-truth layer boxes, and structured captions, which provides complete supervision for decomposition training.</i>
+</p>
 
 **SynLayers** is a two-stage pipeline that decomposes a real-world image into transparent, stackable RGBA layers guided by bounding boxes and text captions.
 

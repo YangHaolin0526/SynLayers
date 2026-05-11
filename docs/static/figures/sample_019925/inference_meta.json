@@ -1,0 +1,58 @@
+{
+  "sample_idx": 25,
+  "sample_name": "sample_019925",
+  "target_size": 512,
+  "source_size": 512,
+  "num_layers": 8,
+  "boxes": [
+    [
+      0,
+      0,
+      512,
+      512
+    ],
+    [
+      0,
+      0,
+      512,
+      512
+    ],
+    [
+      176,
+      48,
+      512,
+      272
+    ],
+    [
+      0,
+      304,
+      240,
+      464
+    ],
+    [
+      192,
+      176,
+      320,
+      320
+    ],
+    [
+      160,
+      304,
+      352,
+      336
+    ],
+    [
+      64,
+      112,
+      176,
+      272
+    ],
+    [
+      248,
+      309,
+      389,
+      365
+    ]
+  ],
+  "caption": "This is a wood carving style image. The image presents a modern and minimalist design, characterized by a clean white background that enhances the visual impact of the main elements. The color scheme is composed of deep blues, warm yellows, and soft greens, creating a harmonious balance that is both professional and inviting.\n\nAt the top right of the image, there is a prominent geometric composition featuring a series of triangular shapes. The largest triangle is a rich navy blue, which is complemented by a lighter, textured triangle in a warm golden hue. This golden triangle has a smooth, flowing texture that mimics natural wood grain, adding an organic touch to the geometric forms. Nestled within these triangles is a stylized logo, composed of overlapping shapes in blue, yellow, and green. The logo's design is sleek and modern, suggesting a sense of innovation and creativity.\n\nBelow this arrangement, a smaller cluster of triangular shapes is positioned, consisting of three triangles in varying shades of blue and yellow. The leftmost triangle is a deep navy, the center triangle is a soft pastel blue, and the rightmost triangle is a warm yellow. This grouping creates a sense of depth and dimension, as the triangles appear to be layered, enhancing the overall visual interest of the composition.\n\nThe text \"COMPAY NAME\" is prominently displayed in a bold, copper-colored font that contrasts well with the white background. The font style is modern and sans-serif, which aligns with the contemporary aesthetic of the image. The placement of the text below the triangular elements ensures that it is easily readable while maintaining a cohesive design.\n\nThe overall artistic style of the image leans towards digital illustration, with clean lines and a polished finish. The use of soft shadows and subtle gradients adds depth to the shapes, making them appear three-dimensional. The combination of geometric forms and organic textures creates a dynamic visual experience.\n\nThe theme of the image conveys professionalism and creativity, making it suitable for branding purposes, such as a company logo or promotional material. The modern design and color palette suggest a focus on innovation and forward-thinking, making it ideal for businesses in creative industries, technology, or design. The image could effectively be used on a website, business card, or social media profile to establish a strong brand identity With The Best Classic Canadian Butter Tarts. and Text: cosplay wooden smoking england."
+}

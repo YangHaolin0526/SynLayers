@@ -1,0 +1,70 @@
+{
+  "sample_idx": 0,
+  "sample_name": "sample_019900",
+  "target_size": 512,
+  "source_size": 512,
+  "num_layers": 10,
+  "boxes": [
+    [
+      0,
+      0,
+      512,
+      512
+    ],
+    [
+      0,
+      0,
+      512,
+      512
+    ],
+    [
+      64,
+      0,
+      432,
+      512
+    ],
+    [
+      80,
+      16,
+      448,
+      496
+    ],
+    [
+      96,
+      32,
+      416,
+      128
+    ],
+    [
+      96,
+      32,
+      416,
+      112
+    ],
+    [
+      112,
+      128,
+      384,
+      448
+    ],
+    [
+      208,
+      32,
+      304,
+      96
+    ],
+    [
+      0,
+      224,
+      128,
+      336
+    ],
+    [
+      349,
+      360,
+      491,
+      448
+    ]
+  ],
+  "caption": "This is a wood carving style image. The image presents a vibrant and playful composition featuring a cartoonish bull, which is framed within an ornate decorative border. The background is a bright green, providing a lively and cheerful atmosphere that enhances the overall appeal of the illustration.\n\nThe bull itself is the focal point of the image, depicted in a three-dimensional, animated style. It has a rounded, friendly face with large, expressive eyes and a wide, cheerful smile that conveys a sense of joy and approachability. Its body is a warm brown color, with subtle shading that adds depth and dimension. The bull's prominent features include its curly, light brown mane and two distinct, spiraled horns that add character to its playful demeanor. The bull stands confidently, with its legs slightly apart and a playful tail curling behind it.\n\nSurrounding the bull is a decorative frame that is rich in detail. The frame is dark with ornate carvings, featuring intricate floral patterns that contrast beautifully with the simplicity of the bull's design. The inner part of the frame is painted in a soft pink hue, which complements the bull's warm tones and adds a touch of whimsy to the overall composition.\n\nAt the top of the frame, the word \"bull\" is prominently displayed in a bold, golden font. The lettering is stylized with a slight three-dimensional effect, making it stand out against the green background. This text not only identifies the subject of the image but also adds an educational element, suggesting that the image may be intended for a children's learning context.\n\nThe artistic style of the image is cartoonish and exaggerated, emphasizing fun and friendliness rather than realism. The use of bright colors and smooth textures contributes to a lighthearted and engaging mood, making it suitable for a variety of contexts, such as educational materials, children's books, or playful decor.\n\nOverall, the image conveys a theme of joy and friendliness, with the bull symbolizing strength and playfulness. Its potential uses could include educational resources aimed at young children, social media posts promoting animal awareness, or as part of a playful branding for a farm-themed event or product With Paul Hollywoods Ultimate Carrot Cake Delicious Magazine and Text: free pictures dancing."
+}

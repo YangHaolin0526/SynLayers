@@ -1,0 +1,52 @@
+{
+  "sample_idx": 36,
+  "sample_name": "sample_019936",
+  "target_size": 512,
+  "source_size": 512,
+  "num_layers": 7,
+  "boxes": [
+    [
+      0,
+      0,
+      512,
+      512
+    ],
+    [
+      0,
+      0,
+      512,
+      512
+    ],
+    [
+      64,
+      192,
+      416,
+      256
+    ],
+    [
+      256,
+      272,
+      448,
+      320
+    ],
+    [
+      128,
+      256,
+      384,
+      288
+    ],
+    [
+      160,
+      352,
+      368,
+      464
+    ],
+    [
+      224,
+      0,
+      496,
+      272
+    ]
+  ],
+  "caption": "This is a wood carving style image. The image presents a clean and minimalist design, featuring a stark white background that enhances the visibility of the text elements. The color scheme is primarily composed of warm, earthy tones, particularly a rich copper hue that gives the text a metallic appearance, suggesting a sense of elegance and sophistication.\n\nAt the center of the image, the word \"STERRITON\" is prominently displayed in a bold, serif font. The letters are crafted with a textured finish that mimics the look of polished wood or metal, adding depth and a tactile quality to the design. Below \"STERRITON,\" the word \"DAILY\" is presented in a slightly smaller size but maintains the same font style, ensuring visual harmony. The text is aligned to create a balanced composition, with \"STERRITON\" taking precedence as the focal point.\n\nA distinctive feature of the design is the wavy ribbon-like element that runs horizontally through the middle of the text. This ribbon is composed of three colors: a soft blue, a deep red, and a lighter shade that transitions between the two. The flowing nature of the ribbon adds a dynamic quality to the otherwise static text, suggesting movement and creativity. The ribbon's placement not only separates the two words but also enhances the overall visual interest of the image.\n\nThe artistic style of the image leans towards a modern and professional aesthetic, with clean lines and a polished finish. The use of shadows and highlights on the text gives it a three-dimensional effect, making it appear as if the letters are slightly raised from the background. This technique adds to the overall sophistication of the design.\n\nThe theme of the image conveys a sense of professionalism and reliability, likely intended for a publication or media outlet. The mood is serious yet inviting, suggesting that \"STERRITON DAILY\" could be a source of news, information, or lifestyle content. \n\nIn terms of symbolism, the combination of the warm copper tones and the flowing ribbon may represent a blend of tradition and modernity, indicating that the publication values both heritage and contemporary perspectives. \n\nThis image could be effectively used as a logo for a news website, a header for a digital magazine, or promotional material for a daily publication, appealing to an audience seeking trustworthy and engaging content With Phyllis THE OFFICE Christmas Ornament! and Text: with back more."
+}

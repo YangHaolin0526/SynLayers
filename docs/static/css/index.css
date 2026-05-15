@@ -160,7 +160,7 @@ body {
 }
 
 .publication-hero .hero-body {
-  padding: 2.5rem 1.5rem 2.75rem;
+  padding: 3rem 1.5rem 2.25rem;
 }
 
 .venue-tag {
@@ -188,13 +188,18 @@ body {
   margin-top: 1.35rem;
 }
 
+.video-section {
+  background: #ffffff;
+  padding: 1.25rem 1.5rem 3rem;
+}
+
 .hero-video {
   aspect-ratio: 16 / 9;
   background: #ffffff;
   border: 1px solid #e4e7ee;
   border-radius: 8px;
   box-shadow: 0 14px 36px rgba(20, 28, 40, 0.08);
-  margin: 1.6rem auto 0;
+  margin: 0 auto;
   max-width: 980px;
   overflow: hidden;
   width: 100%;

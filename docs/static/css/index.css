@@ -210,6 +210,7 @@ body {
   border-radius: 8px;
   box-shadow: 0 14px 36px rgba(20, 28, 40, 0.08);
   display: block;
+  height: 552px;
   margin: 0 auto;
   max-width: 980px;
   overflow: hidden;
@@ -217,9 +218,8 @@ body {
 }
 
 .hero-video video {
-  aspect-ratio: 16 / 9;
   display: block;
-  height: auto;
+  height: 100%;
   object-fit: contain;
   width: 100%;
 }
@@ -458,6 +458,11 @@ body {
 
   .publication-hero .hero-body {
     padding-top: 3.5rem;
+  }
+
+  .hero-video {
+    height: calc((100vw - 3rem) * 9 / 16);
+    min-height: 220px;
   }
 }
 

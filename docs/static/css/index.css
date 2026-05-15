@@ -191,26 +191,20 @@ body {
 .video-section {
   background: #ffffff;
   border-bottom: 1px solid #e6e9ef;
-  clear: both;
-  padding: 1.5rem 1.5rem 3.5rem;
-  position: relative;
-  z-index: 1;
+  padding: 2.5rem 1.5rem 3.5rem;
 }
 
 .teaser-section {
-  clear: both;
   padding-top: 3.5rem;
-  position: relative;
-  z-index: 0;
 }
 
 .hero-video {
-  background: #ffffff;
+  aspect-ratio: 16 / 9;
+  background: #000000;
   border: 1px solid #e4e7ee;
   border-radius: 8px;
   box-shadow: 0 14px 36px rgba(20, 28, 40, 0.08);
   display: block;
-  height: 552px;
   margin: 0 auto;
   max-width: 980px;
   overflow: hidden;
@@ -461,7 +455,6 @@ body {
   }
 
   .hero-video {
-    height: calc((100vw - 3rem) * 9 / 16);
     min-height: 220px;
   }
 }

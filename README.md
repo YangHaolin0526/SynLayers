@@ -205,5 +205,10 @@ SynLayers/
 If you use SynLayers in your research, please cite:
 
 ```bibtex
-
+@article{wu2026does,
+  title={Does Synthetic Layered Design Data Benefit Layered Design Decomposition?},
+  author={Wu, Kam Man and Yang, Haolin and Chen, Qingyu and Tang, Yihu and Chen, Jingye and Chen, Qifeng},
+  journal={arXiv preprint arXiv:2605.15167},
+  year={2026}
+}
 ```

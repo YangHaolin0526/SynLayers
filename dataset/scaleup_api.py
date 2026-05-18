@@ -5,9 +5,9 @@ import argparse
 import torch
 from tqdm import tqdm
 
-ROOT_DIR = os.environ.get("ROOT_DIR", "/project/llmsvgen/share/data/kmw_layered_dataset/PrismLayersPro-scaledup-1024-alpha-500k")
+ROOT_DIR = os.environ.get("ROOT_DIR", "Your_Data_Directory")
 QWEN_MODEL_PATH = "Qwen/Qwen2.5-VL-3B-Instruct"
-
+###
 SYSTEM_PROMPT = """You are an expert image captioner. 
 Your task is to refine and condense a long, redundant 'whole caption' of a layered image.
 The original caption is a combination of a background description and multiple foreground layers with their positions and descriptions.

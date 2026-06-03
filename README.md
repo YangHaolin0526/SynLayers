@@ -3,6 +3,10 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://www.python.org/)
 
+Project page: https://yanghaolin0526.github.io/SynLayers/
+
+Paper: https://arxiv.org/pdf/2605.15167
+
 ## Overview
 <p align="center">
   <img src="pipeline_new_1.png" width="100%"><br>
